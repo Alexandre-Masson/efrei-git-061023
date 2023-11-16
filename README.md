@@ -11,3 +11,5 @@ Ceci est une modification qui sera mise de côté via git stash pour être appli
 Je viens de créer la branche exo1 pour l'exercice 1.
 
 Je suis une nouvelle phrase ajoutée dans le fichier README.md uniquement dans la branche exo1 à 15h39 le 16/11/2023.
+
+Ceci est une instruction d'une importance capitale pour le fonctionnement du projet. Elle est ajoutée ici de façon totalement désinvolte.
