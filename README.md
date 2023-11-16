@@ -9,3 +9,5 @@ Ceci est une modification qui n'existe pour le moment que dans la branche develo
 Ceci est une modification qui sera mise de côté via git stash pour être appliquée sur la branche development.
 
 Je viens de créer la branche exo1 pour l'exercice 1.
+
+Je suis une nouvelle phrase ajoutée dans le fichier README.md uniquement dans la branche exo1 à 15h39 le 16/11/2023.
